@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a>
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img id="top" src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Jobboard</h3>
@@ -61,7 +61,7 @@
 
 <img src="images/screenshot.png" alt="screenshot">
 
-Ce projet vise à réaliser: <br>
+Ce projet vise à réaliser dans un délai de 3 semaines ceci: <br>
 • une base de données pour stocker les offres d’emploi,<br>
 • une page Web utilisant les technologies Javascript pour afficher un tableau d’annonces d’emploi en ligne ainsi qu’une page d’administration pour l’utilisateur admin,<br>
 • un API<br>
