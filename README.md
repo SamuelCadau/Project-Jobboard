@@ -55,7 +55,7 @@
 
 <img id="about-the-project" src="images/screenshot.png" alt="screenshot">
 
-Ce projet vise à réaliser dans un délai de 3 semaines ceci: <br>
+Ce projet visait à réaliser dans un délai de 3 semaines ceci: <br>
 • une base de données pour stocker les offres d’emploi,<br>
 • une page Web utilisant les technologies Javascript pour afficher un tableau d’annonces d’emploi en ligne ainsi qu’une page d’administration pour l’utilisateur admin,<br>
 • un API<br>
