@@ -96,7 +96,7 @@ Créer une base de donnée dans phpmyadmin et importer celle du projet Jobboard.
    ```sh
    git clone https://github.com/SamuelCadau/Project-Jobboard.git
    ```
-2. Installer les paquets npm dans le dossier JobBoard
+2. Installer les paquets npm dans le dossier `back/` et `jobboard/`
    ```sh
    npm install
    ```
