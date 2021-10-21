@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a>
-    <img id="top" src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Jobboard</h3>
@@ -39,16 +39,10 @@
   <ol>
     <li>
       <a href="#about-the-project">À propos du Projet</a>
-      <ul>
-        <li><a href="#built-with">Fait avec</a></li>
-      </ul>
     </li>
-    <li>
-      <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#built-with">Fait avec</a></li>
+    <li><a href="#prerequisites">Prérequis</a></li>
+    <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -59,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## À propos du Projet
 
-<img src="images/screenshot.png" alt="screenshot">
+<img id="about-the-project" src="images/screenshot.png" alt="screenshot">
 
 Ce projet vise à réaliser dans un délai de 3 semaines ceci: <br>
 • une base de données pour stocker les offres d’emploi,<br>
@@ -79,7 +73,7 @@ Ce projet vise à réaliser dans un délai de 3 semaines ceci: <br>
 * [Express.js](https://expressjs.com/)
 * [Mysql](https://www.mysql.com/fr/)
 
-<p align="right">(<a href="#top">Retour en Haut</a>)</p>
+<p id="built-with" align="right">(<a href="#top">Retour en Haut</a>)</p>
 
 
 
@@ -87,8 +81,11 @@ Ce projet vise à réaliser dans un délai de 3 semaines ceci: <br>
 
 ### Prerequisites
 
+
 Il vous faudra une plateforme de développement pour mettre en place un serveur web local, comme Wampserver, Xampp etc..
 Créer une base de donnée dans phpmyadmin et importer celle du projet Jobboard.sql.
+
+<p id="prerequisites" align="right">(<a href="#top">Retour en Haut</a>)</p>
 
 ### Installation
 
@@ -112,7 +109,7 @@ Créer une base de donnée dans phpmyadmin et importer celle du projet Jobboard.
    npm run dev
    ```
 
-<p align="right">(<a href="#top">Retour en Haut</a>)</p>
+<p id="installation" align="right">(<a href="#top">Retour en Haut</a>)</p>
 
 
 
@@ -129,7 +126,7 @@ Créer une base de donnée dans phpmyadmin et importer celle du projet Jobboard.
 <br>
 <img src="images/crud.PNG" alt="crud">
 
-<p align="right">(<a href="#top">Retour en Haut</a>)</p>
+<p id="usage" align="right">(<a href="#top">Retour en Haut</a>)</p>
 
 
 
@@ -141,5 +138,5 @@ Samuel Cadau - [@Om13Samuel](https://twitter.com/Om13Samuel) - samuel.cadau@epit
 Linkedin - [Samuel Cadau](https://www.linkedin.com/in/samuel-cadau-025ba9198/)
 
 
-<p align="right">(<a href="#top">Retour en Haut</a>)</p>
+<p id="contact" align="right">(<a href="#top">Retour en Haut</a>)</p>
 
